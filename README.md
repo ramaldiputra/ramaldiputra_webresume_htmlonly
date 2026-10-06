@@ -1,2 +1,2 @@
-# ramaldiputra_webresume_htmlonly
-Ramaldi Putra Resume HTML only
+# Ramaldi Putra Web Resume
+A web resume utilizing HTML only
